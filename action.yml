@@ -11,6 +11,6 @@ inputs:
     default: 'build'
 runs:
   using: 'docker'
-  image: 'docker://jrubics/PJISP-zbirka-zadataka:latest'
+  image: 'docker://jrubics/pjisp-zbirka-zadataka:latest'
   args:
     - ${{ inputs.command }}
