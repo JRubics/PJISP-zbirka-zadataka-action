@@ -1,9 +1,6 @@
 name: 'PJISP-zbirka-zadataka'
 author: '@JRubics'
 description: 'An action to support development of pjisp-zbirka-zadataka: https://github.com/petarmaric/pjisp-zbirka-zadataka'
-# branding:
-#   icon: 'upload-cloud'
-#   color: 'gray-dark'
 inputs:
   command:
     description: 'The command to be run (help, build, build.build_books, build.clean, build.lint, build.rebuild_all, build.sphinx_build, novi_zadatak.sa_kolokvijuma, publish, publish.html)'
